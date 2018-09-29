@@ -1,0 +1,22 @@
+{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "aliases": "^1.0.0",
+    "chalk": "^2.4.1",
+    "config.json": "0.0.4",
+    "cool-images": "^1.0.1",
+    "jimp": "^0.5.0",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "random-puppy": "^1.1.0",
+    "weather-js": "^2.0.0"
+  }
+}
